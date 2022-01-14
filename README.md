@@ -22,3 +22,7 @@ Once there was a dog who wandered the streets night and day in search of food. O
 Branching is fun, like climbing a tree in all directions, but it
 **_is_**
 VERY complicated.
+
+- The dog was greedy. He wanted to have the meat in the stream, too.
+- He dropped his bone and jumped into the stram.
+- He wanted to snatch the juicy bone from the dog in the stream.
