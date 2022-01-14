@@ -1,3 +1,3 @@
-# Group Training Task #
+# Group Training Task 
 The dog and the bone
 
