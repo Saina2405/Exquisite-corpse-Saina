@@ -1,6 +1,6 @@
 # THE DOG AND THE BONE
 
-[dog and bone]（https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2018/05/thumb_720_450_dreamstime_l_23868837.jpg）
+![dog and bone]（https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2018/05/thumb_720_450_dreamstime_l_23868837.jpg）
 
 Once a stray dog got a bone with some meat on it from butcher's shop. 
 
